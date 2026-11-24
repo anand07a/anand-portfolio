@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 440">
+  <rect width="800" height="440" fill="#e9e9f2"/>
+  <circle cx="672" cy="90" r="112" fill="#dedceb"/>
+  <circle cx="109" cy="370" r="128" fill="#dedceb"/>
+  <rect x="125" y="55" width="550" height="330" rx="15" fill="#222b37"/>
+  <path d="M140 55h520a15 15 0 0 1 15 15v31H125V70a15 15 0 0 1 15-15" fill="#303a48"/>
+  <circle cx="151" cy="80" r="5" fill="#ed8265"/>
+  <circle cx="169" cy="80" r="5" fill="#e9c264"/>
+  <circle cx="187" cy="80" r="5" fill="#83b291"/>
+  <rect x="217" y="75" width="92" height="10" rx="5" fill="#647181"/>
+  <path d="M168 142h26m-26 35h26m-26 35h26m-26 35h26m-26 35h26" stroke="#687586" stroke-linecap="round" stroke-width="3"/>
+  <text x="220" y="148" fill="#d89cf2" font-family="monospace" font-size="18"># My first Python practice</text>
+  <text x="220" y="184" fill="#82c7df" font-family="monospace" font-size="18">student_name</text>
+  <text x="352" y="184" fill="#e6c77d" font-family="monospace" font-size="18">=</text>
+  <text x="372" y="184" fill="#a9d58f" font-family="monospace" font-size="18">"Anand"</text>
+  <text x="220" y="220" fill="#82c7df" font-family="monospace" font-size="18">practice</text>
+  <text x="307" y="220" fill="#e6c77d" font-family="monospace" font-size="18">=</text>
+  <text x="327" y="220" fill="#f0a879" font-family="monospace" font-size="18">{}</text>
+  <text x="220" y="256" fill="#d89cf2" font-family="monospace" font-size="18">print</text>
+  <text x="273" y="256" fill="#d9e0e9" font-family="monospace" font-size="18">(practice)</text>
+  <rect x="220" y="285" width="415" height="1" fill="#465160"/>
+  <text x="220" y="321" fill="#8995a5" font-family="monospace" font-size="15">&gt; {}  # output</text>
+</svg>
